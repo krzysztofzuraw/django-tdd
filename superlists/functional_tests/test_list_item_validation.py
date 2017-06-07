@@ -1,4 +1,3 @@
-from unittest import skip
 from .base import FunctionalTest
 
 
